@@ -1,6 +1,7 @@
 **Huddle is Hiring!** [We're looking for talented front-end engineers](https://talentcommunity.huddle.com/careers)
 
 <img title="PhantomCSS" alt="Cute image of a ghost" width="200px" src="https://raw.github.com/Huddle/PhantomCSS/master/readme_assets/Phantom CSS.png">
+<img title="PhantomCSS" alt="Cute image of a ghost" width="200px" src="https://cdn.dribbble.com/users/787324/screenshots/2642281/main.gif">
 
 **CSS regression testing**. A [CasperJS](http://github.com/n1k0/casperjs) module for automating visual regression testing with [PhantomJS 2](http://github.com/ariya/phantomjs/) or [SlimerJS](http://slimerjs.org/) and [Resemble.js](http://huddle.github.com/Resemble.js/). For testing Web apps, live style guides and responsive layouts. Read more on Huddle's Engineering blog: [CSS Regression Testing](http://tldr.huddle.com/blog/css-testing/).
 
