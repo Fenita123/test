@@ -6,3 +6,17 @@ If your tests are green and passing before updating, I would recommend rebasing 
 You can still use the [v0 branch](https://github.com/Huddle/PhantomCSS/tree/v0) if you wish, though it now unmaintained.
 
 ### Download
+
+PhantomCSS can be downloaded in various ways:
+
+* `npm install phantomcss` (PhantomCSS is not itself a Node.js module)
+* `bower install phantomcss`
+* `git clone git://github.com/Huddle/PhantomCSS.git`  vb gmnjmmn
+
+fgddddddddddddd
+ggggggggggggggg
+dsssssssssssssssss
+eeeeeeeeeeeeeeeeeeee
+333333333333333333
+44444444444444444
+jhjhjhjhjhjhjhjhjhjhjhjhjh
