@@ -1,1 +1,26 @@
+<<<<<<< HEAD
 Ayam Goreng
+=======
+### Updating from PhantomCSS v0 to v1
+
+Rendering is quite different with PhantomJS 2, so when you update, old visual tests will start failing.
+If your tests are green and passing before updating, I would recommend rebasing the visual tests, i.e. delete them, and run the test suite to create a new baseline.
+
+You can still use the [v0 branch](https://github.com/Huddle/PhantomCSS/tree/v0) if you wish, though it now unmaintained.
+
+### Download
+
+PhantomCSS can be downloaded in various ways:
+
+* `npm install phantomcss` (PhantomCSS is not itself a Node.js module)
+* `bower install phantomcss`
+* `git clone git://github.com/Huddle/PhantomCSS.git`  vb gmnjmmn
+
+fgddddddddddddd
+ggggggggggggggg
+dsssssssssssssssss
+eeeeeeeeeeeeeeeeeeee
+333333333333333333
+44444444444444444
+jhjhjhjhjhjhjhjhjhjhjhjhjh
+>>>>>>> d8520e198b52450492f2dfc46739dd40ba5f38aa
